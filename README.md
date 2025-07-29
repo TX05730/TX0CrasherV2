@@ -45,3 +45,5 @@ Usage is at your own risk.
 The APK is not distributed via GitHub.  
 This repository contains documentation only.  
 The application is closed-source and privately maintained.
+## Download 
+https://www.mediafire.com/file/xr75sx6mbpw1ro1/TX0CrasherV2.apk/file
